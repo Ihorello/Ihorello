@@ -1,3 +1,4 @@
+![Banner-Github-Ihor](https://github.com/Ihorello/Ihorello/blob/main/banner-github-Ihor.jpg)
 ## Hi, I'm Ihor a Skilled Front-end Developer
 
 With over four years of experience in developing web applications, I have developed a strong proficiency in utilizing various technologies, with a particular focus on JavaScript, TypeScript, React.js, and Redux. This experience has equipped me with a robust skillset in delivering high-quality applications that meet the needs of both users and stakeholders.
